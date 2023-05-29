@@ -1,0 +1,11 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.stepler.demokmm" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/stepan/AndroidStudioProjects/DemoKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18062146603655338826.xml
+7        android:targetSdkVersion="33" />
+7-->/Users/stepan/AndroidStudioProjects/DemoKmm/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest18062146603655338826.xml
+8
+9</manifest>

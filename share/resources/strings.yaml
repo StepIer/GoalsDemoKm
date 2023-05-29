@@ -1,0 +1,20 @@
+general:
+  mainScreen:
+    en: Main Screen
+  settingsScreen:
+    en: Settings Screen
+  diagramScreen:
+    en: Diagram Screen
+  save:
+    en: Save
+  textSize:
+    en: Text Size
+  goToBack:
+    en: Go to back
+  goToSetting:
+    en: Go to setting
+  goToDiagram:
+    en: Go to diagram
+  close:
+    en: Close
+

@@ -1,0 +1,15 @@
+/.idea
+/.gradle
+/android/androidApp/build/
+/android/core/build/
+/build/
+/buildSrc/.gradle/
+/buildSrc/build/
+/gradle/
+/share/.gradle/
+/share/core/domain/build/
+/share/core/presentation/build/
+/share/features/.gradle/
+/share/features/mainfeature/.gradle/
+/share/features/mainfeature/build/
+/share/resources/build/

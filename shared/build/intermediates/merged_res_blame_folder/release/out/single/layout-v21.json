@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.stepler.demokmm.shared-merged_res-30:/layout-v21/notification_template_icon_group.xml",
+        "source": "com.stepler.demokmm.shared-core-1.8.0-15:/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "com.stepler.demokmm.shared-merged_res-30:/layout-v21/notification_action_tombstone.xml",
+        "source": "com.stepler.demokmm.shared-core-1.8.0-15:/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "com.stepler.demokmm.shared-merged_res-30:/layout-v21/notification_action.xml",
+        "source": "com.stepler.demokmm.shared-core-1.8.0-15:/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "com.stepler.demokmm.shared-merged_res-30:/layout-v21/notification_template_custom_big.xml",
+        "source": "com.stepler.demokmm.shared-core-1.8.0-15:/layout-v21/notification_template_custom_big.xml"
+    }
+]
